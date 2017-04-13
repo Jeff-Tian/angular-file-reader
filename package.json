@@ -1,0 +1,28 @@
+{
+  "name": "angular-file-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeff-Tian/angular-file-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeff-Tian/angular-file-reader/issues"
+  },
+  "homepage": "https://github.com/Jeff-Tian/angular-file-reader#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.3.3",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.1.2"
+  },
+  "presets": [
+    "env"
+  ]
+}
